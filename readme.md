@@ -2,7 +2,7 @@
 ## Steps to follow
 - Need To add API keys in environment variable
 - Database is alerady there with following admin credentials
-usernmae = amdin
+username = amdin
 password = pass
 - Also there is test user with following credentials
 username = test

@@ -136,9 +136,4 @@ STATIC_URL = '/static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-
-STRIPE_BASE_URL = 'https://api.stripe.com/v1/',
-
-
 AUTH_USER_MODEL = 'account.CustomUser'
-STRIPE_SIGNING_SECRET = 'whsec_fLbYixqUBtxIZhugniAYbBVEb1BFawp8'
